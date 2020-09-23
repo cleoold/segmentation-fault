@@ -1,5 +1,17 @@
+# objects
+*.o
+
+# binaries
 *.so
+*.dylib
 
 *.dll
 *.lib
 *.exe
+
+# python
+__pycache__
+
+# editors
+.vscode
+.idea
